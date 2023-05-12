@@ -1,4 +1,3 @@
-
 Reading DATE: 28-04-23
 SITE NAME: Attur Bazaar 
 SITE I'D: 006597
@@ -38,7 +37,6 @@ STOCK:50
 TOTAL FILLING: 40
 CPH: 2
 TOTAL LOAD: 54
-
 
 Reading DATE:28-04-23
 SITE NAME:chinnamapetai Chinnamapet
